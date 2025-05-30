@@ -1,2 +1,11 @@
-# Stock-Price-Predictor
-Built a machine learning model to forecast short-term stock price movements using historical market data from the National Stock Exchange (NSE). Implemented linear regression with comprehensive feature engineering on price and volume indicators to predict future stock trends.
+# Stock Price Predictor
+
+A simple linear regression model that predicts stock prices based on historical closing price data.
+
+## Features
+- Linear regression model
+- Real-world NSE-like stock data
+- Visual comparison between predicted and actual prices
+
+## Tools Used
+- Python, scikit-learn, pandas, matplotlib
